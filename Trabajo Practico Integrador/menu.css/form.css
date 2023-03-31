@@ -27,8 +27,33 @@
 }
 
 .form-contact .button .enviar {
-    padding: 1 rem 2rem ;
-    background-color: #48A3A6;
-    border-radius: 5px;
+    border-radius: 8px;
+	background-color: #ec6e5a;
+	display: block;
+	color: #FFF;
+	border: none;
+	height: 50px;
+	font-size: .8em;
+	outline: none;
+}
+
+table{
+    margin: 40px 40px;
+}
+
+thead{
+    background: #555555;
     color: white;
+    font-weight: bold;
+}
+
+td, th{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+footer{
+    text-align: center;
+    background: url(./bg.jpg);
+    padding: 40px;
 }

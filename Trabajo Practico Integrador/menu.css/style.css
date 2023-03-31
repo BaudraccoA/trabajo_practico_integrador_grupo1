@@ -3,6 +3,10 @@ body {
 	font-family: 'Open Sans',Arial,sans-serif;
 }
 
+.banner {
+	width: 100%;
+}
+
 .container {
 	width: 94%;
 	margin: 0 auto;
@@ -173,43 +177,11 @@ body {
 .rodapePrincipal-patrocinadores {
 	margin-top: 30px;
 	background: #F2F5F7;
-	padding: 20px 0;
-}
-
-.rodapePrincipal-contatoForm {
-	margin-top: 20px;
+	padding:20px;
 	text-align: center;
-}
+    font-size: 13px;
+	width: 100%;
 
-.rodapePrincipal-contatoForm label[for=email-contato] {
-	font-weight: bold;
-	font-size: 14px;
-	color: #000;
-	margin-bottom: 5px;
-	display: block;
-}
-
-.rodapePrincipal-contatoForm-emailInput {
-	border-top-left-radius: 5px;
-	border-bottom-left-radius: 5px;
-	padding: 10px;
-}
-
-.rodapePrincipal-contatoForm-submit {
-	border-top-right-radius: 5px;
-	border-bottom-right-radius: 5px;
-	background-color: #4DBA7A;
-	color: #FFF;
-	cursor: pointer;
-	
-}
-
-.rodapePrincipal-contatoForm-submit,
-.rodapePrincipal-contatoForm-emailInput {
-	outline: 0;
-	border: 1px solid #4DBA7A;
-	box-sizing: border-box;
-	font-size: 16px;
 }
 
 .videoSobre {
