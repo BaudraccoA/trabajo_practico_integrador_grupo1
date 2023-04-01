@@ -25,8 +25,8 @@
 			<nav class="headerPrincipal-nav">
 				<a class="headerPrincipal-nav-link" href="index.html">Home</a>
 				<a class="headerPrincipal-nav-link" href="Cursos.html">Cursos</a>
-				<a class="headerPrincipal-nav-link" href="#">Que es ProAr</a>
-				<a class="headerPrincipal-nav-link" href="Herramientas.html">Herramientas</a>
+				<a class="headerPrincipal-nav-link" href="index.html">Que es ProAr</a>
+				<a class="headerPrincipal-nav-link" href="index.html">Herramientas</a>
 				<a class="headerPrincipal-nav-link" href="Contacto.html">Contacto</a>
 			</nav>
 		</div>
@@ -34,20 +34,29 @@
 	</header>
 	<img class="banner" src="../imagenes/vospitanie-detej-narusheniem-rechi-2.jpg">
 
-	<main class="contenidoPrincipal">
+	<main class="contenidoPrincipal-nosotros">
 		<div class="container">
-			<h2 class="subtitulo">Nuestros cursos</h2>
-
-			<nav>
-				<ul class="contenidoPrincipal-cursos">
-					<li class="contenidoPrincipal-cursos-link"><a href="#">Flexbox</a></li>
-					<li class="contenidoPrincipal-cursos-link"><a href="#">Desarrollo Web niños</a></li>
-					<li class="contenidoPrincipal-cursos-link"><a href="#">Javascript</a></li>
-					<li class="contenidoPrincipal-cursos-link"><a href="#">CSS</a></li>
-					<li class="contenidoPrincipal-cursos-link"><a href="#">Git</a></li>
-					<li class="contenidoPrincipal-cursos-link"><a href="#">Boostrap</a></li>
-				</ul>
-			</nav>
+			<h2 class="subtitulo">Quienes somos</h2>
+         <article class="contenido-articulo">
+             <p><em>"A cambiar el mundo cambiándolo"</em></p>
+		 </article>
+		 <article class="contenido-articulo">
+			 <p>ProAr es una cooperativa social dedicada al desarrollo de las capacidades digitales de niños y jovenes en edad escolar provenientes de todos los entornos socioeconómicos.</p>
+				Como parte de este objetivo general,ProAr busca disminuir la brecha digital que afecta especialmente a niños y jovenes de entornos no favorecidos.
+				Para lograrlo,ProAr cuenta con un brazo comercial y un brazo sin fines de lucro. Ambos brazos trabajan en forma conjunta en un modelo unificado e independiente.
+				Es asi como marcamos la diferencia en el sector del desarrollo de competencias digitales online.</p>
+		 </article>
+		 <article class="contenido-articulo">
+            ProAr busca desarrollar tres atributos claves en sus estudiantes:</p>
+            <p>Creadores computacionales</p>
+				<p>No basta con aprender a programar, hay que crear los hábitos que permitan ser creadores. En ProAr fomentamos el pensamiento computacional.</p>
+				
+			<p>Líderes colaborativos</p>
+				<p>El éxito en el Siglo XXI esta cada vez mas basado en desarrollar la capacidad de colaborar a la vez de líderar. Por ello ProAr trabaja actívamente en desarrollar los hábitos de resolución colaborativa de problemas y agencia de cambio.</p>
+				
+			<p>Aprendices permanentes</p>
+				<p>Este es el atributo mas asociado a la genialidad y un atributo fundamental para progresar en el cambiante Siglo XXI.ProAr desarrolla los hábitos de la práctica deliberada y la mentalidad de crecimiento.</p>
+		 </article>
 		</div>
 		<div class="container">
 			<h2 class="subtitulo">Herramientas</h2>
@@ -72,7 +81,13 @@
 						<li class="videoSobre-sobre-item">Nuevos cursos todos los meses</li>
 						<li class="videoSobre-sobre-item">Cursos compatibles para armar tu primera pagina web</li>
 					</ul>
-					<button class="videoSobre-button">Inscríbete ya</button>
+					<form class="form-contact" action="contacto.html">
+						<fieldset>						
+							  <div class="button">
+							  <input type="submit" value="Inscríbete ya" class="enviar">
+							  </div>              
+						</fieldset>
+					</form>		
 								
 				</div>
 			</div>
@@ -117,13 +132,7 @@
 						</a>
 					</li>
 				</ul>
-				<form class="form-contact" action="contacto.html">
-					<fieldset>						
-						  <div class="button">
-						  <input type="submit" value="REALIZAR INSCRIPCION" class="enviar">
-						  </div>              
-					</fieldset>
-				</form>		
+					
 			</div>
 		</section>
 	</footer>

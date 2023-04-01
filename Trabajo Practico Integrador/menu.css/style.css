@@ -48,10 +48,14 @@ body {
 .subtitulo {
 	font-weight: bold;
 	font-size: 32px;
-	margin-bottom: 10px;
+	padding: 20px;
 	text-align: center;
+
 }
 
+.contenido-articulo{
+	margin-bottom: 25px;
+}
 
 .contenidoPrincipal-cursos-link {
 	height: 100px;
