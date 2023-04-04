@@ -57,6 +57,63 @@ body {
 	margin-bottom: 25px;
 }
 
+/* Seccion de estilos de Titores*/
+.container_cars {
+    padding-top: 40px;
+    background-color: #d9ebf0;   
+}
+
+.container_cars .cars{
+    text-align: center;
+}
+
+.cars .title {
+    font-size: 35px;
+    color: rgb(17, 17, 17);
+    margin-bottom: 16px;
+}
+
+.cars .subtitle {
+    font-size: 25px;
+    color:  rgb(17, 17, 17);
+    margin-bottom: 16px;
+}
+
+.cars_contenido {
+    text-align: center;   
+}
+
+.car {
+    background: #fdfdfd;
+    display:inline-block;
+    margin: 0 10px 20px 0;
+    padding: 18px;
+    width: 250px; 
+    border-radius: 10px; 
+    vertical-align: top;  
+}
+
+.cars_contenido .car .tutor_imagen img {
+   border-radius: 50%;
+}
+
+.cars_contenido .car .tutor_imagen .cars_nombre {
+    margin-top: 10px;
+}
+
+.cars_contenido .car .tutor_imagen .cars_cargo {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.cars_contenido .car .cars_descripcion {
+    margin-top: 10px;
+}
+
+.container-herramientas{
+	background-color: #5EC6F3;
+}
+
 .contenidoPrincipal-cursos-link {
 	height: 100px;
 	background-color: #FFF;
@@ -105,8 +162,9 @@ body {
 	text-align: center;
 	margin: 1%;
 	transition: .3s;
-	box-shadow: 2px 2px 2px #CCC;
+	box-shadow: 2px 2px 2px #cccccc;
 	position: relative;
+	border-radius: 5px;
 }
 
 .contenidoPrincipal-herramientas-link a {
@@ -134,7 +192,7 @@ body {
 }
 
 .contenidoPrincipal-herramientas-link:nth-child(even) a:before {
-	background: url(../img/background1.svg) no-repeat;	
+	background: url(../imagenes/vscode_icon-300x169.png) no-repeat;	
 }
 
 .contenidoPrincipal-herramientas-link:nth-child(odd) a:before {
