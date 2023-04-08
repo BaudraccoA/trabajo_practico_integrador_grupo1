@@ -57,7 +57,7 @@ td, th{
 .result {
 
     width: 400px;
-    height: 500px;
+    height: 400px;
     left: 600px;
     top: 80px;
     margin: 30px;
@@ -65,13 +65,13 @@ td, th{
 }
     
 .result .text-result {
-         padding: 100px;
+         padding: 130px;
          border: 2px solid #0A3871;
          border-radius: 15px;
          background-color: white;
          font-family: 'Inter';
          color: #343A40;
-         font-weight: 700;
+         font-weight: 500;
             
 }
 
