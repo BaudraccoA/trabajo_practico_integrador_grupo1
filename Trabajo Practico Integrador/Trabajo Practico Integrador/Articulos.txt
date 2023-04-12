@@ -1,0 +1,39 @@
+Articulos
+Scratch�es un lenguaje visual de programaci�n centrado en fomentar la creatividad y el pensamiento l�gico. Aunque cualquier edad es buena para aprenderlo, los ni�os/as son destinatarios ideales para Scratch. Ense��ndoles a usar Scratch estamos ayud�ndoles a afrontar y resolver situaciones y problemas de todo tipo de una manera l�gica y estructurada.
+Cuando empezamos a�ense�ar a un ni�o a programar en Scratch�el objetivo principal deber�a ser que vaya cogiendo soltura y asimilando conceptos, ideas b�sicas y flujos de trabajo sobre programaci�n y pensamiento computacional�de manera divertida y atrayente, para que se genere un inter�s y base t�cnica que le anime a seguir.
+Scratch�es un lenguaje visual�desarrollado por el MIT�y que, bas�ndose en bloques que se unen a modo de puzzle, supone un modo sencillo de aprender sobre programaci�n. Pero esa sencillez de la interfaz o su colorido no debe ocultar que estamos ante un lenguaje tambi�n muy potente y que admite grandes proyectos que se pueden alcanzar de manera gradual.
+Scratch es un lenguaje que propicia desarrollar la creatividad y el pensamiento l�gico de los ni�os/as de manera sencilla y divertida
+
+
+Beneficios de aprender a programar con ni�os
+* Aprender a programar�mejora el razonamiento,�facilita el aprendizaje de las matem�ticas�y la�capacidad de resolver problemas. Incluso ayuda en las asignaturas relacionadas con las lenguas.
+* Favorece la creatividad. Pensar en un proyecto, descubrir c�mo llevarlo a cabo y estructurarlo para que funcione lleva consigo desarrollar la imaginaci�n.
+* Aumenta la confianza y la autoestima. Ver como (poco a poco) aquello en lo que trabajas va dando resultados y es por tu esfuerzo y trabajo aumenta la confianza en uno mismo.
+* Es una actividad que, por su naturaleza, obliga a�fijarse y a mantener la concentraci�n. El desarrollo de esta ser� de gran ayuda para su futuro.
+* Al tener que desarrollar y estructurar sus ideas de forma que estas se puedan�desarrollar competencias como la l�gica. Estas competencias y habilidades que desarrollar� le ayudar�n tambi�n en lo personal.
+* Fomenta el trabajo en equipo. Cuando no eres capaz de realizarlo por tu cuenta, buscas ayuda en los dem�s y formando grupos que se apoyan entre s�.
+
+
+En una sociedad cada vez m�s dependiente de lo digital, el desarrollo de tecnolog�as�deber�a convertirse en uno de los pilares fundamentales de nuestra alfabetizaci�n, al igual que la gram�tica o las matem�ticas. Por eso, el n�mero de padres que buscan maneras de aprender programaci�n para ni�os va en aumento.
+La raz�n es evidente.�Apostar por la programaci�n es hacerlo por un sector con un futuro pr�cticamente asegurado�y, como la mayor�a de los campos, nunca es demasiado pronto para empezar a empaparse de ello.
+Adem�s, escribir c�digo no es la �nica habilidad que adquieren los que se adentran en el mundo del desarrollo a una edad temprana. Tambi�n es una excelente forma de�fomentar el pensamiento l�gico y computacional para la resoluci�n de problemas y la creatividad, aptitudes que pueden ser bastante �tiles posteriormente para afrontar diversos obst�culos de la vida acad�mica y laboral.
+Por todas estas razones, muchas familias buscan la mejor manera de aprender programaci�n para ni�os. Tanto si es tu caso como si no, pero partes igualmente desde cero y te gustar�a iniciarte en el mundo de la programaci�n, a continuaci�n te damos algunas pistas para lograrlo.
+
+Nosotros
+
+Progracademy�busca desarrollar tres atributos claves en sus estudiantes:
+Aprendamos a cambiar el mundo �cambi�ndolo
+Progracademy�es una empresa social (For Profit Social Enterprise) dedicada al desarrollo de las capacidades digitales de ni�os y j�venes en edad escolar provenientes de todos los entornos socioecon�micos.
+Como parte de este objetivo general,�Progracademy�busca disminuir la brecha digital que afecta especialmente a ni�os y j�venes de entornos no favorecidos.
+Para lograrlo,�Progracademy�cuenta con un brazo comercial y un brazo sin fines de lucro �Asociaci�n Progracademy-. Ambos brazos trabajan en forma conjunta en un modelo unificado e independiente.
+Es as� como marcamos la diferencia en el sector del desarrollo de competencias digitales�online.
+Nuestra filosof�a educativa
+Creadores computacionales
+No basta con aprender a programar, hay que crear los h�bitos que permitan ser creadores. En�Progracademy�fomentamos los h�bitos de�Design Thinking�y pensamiento computacional.
+
+L�deres colaborativos
+El �xito en el Siglo XXI est� cada vez m�s basado en desarrollar la capacidad de colaborar a la vez de liderar. Por ello�Progracademy�trabaja activamente en desarrollar los h�bitos de resoluci�n colaborativa de problemas y agencia de cambio.
+
+Aprendices permanentes
+Este es el atributo m�s asociado a la genialidad y un atributo fundamental para progresar en el cambiante Siglo XXI.�Progracademy�desarrolla los h�bitos de la pr�ctica deliberada y la mentalidad de crecimiento.
+
