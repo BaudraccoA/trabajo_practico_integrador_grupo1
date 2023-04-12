@@ -43,7 +43,7 @@ primera experiencia en programación.</p>
 
 \## 🛠️ Abre y ejecuta el proyecto
 
-https://baudraccoa.github.io/trabajo_practico_integrador_grupo1/
+https://baudraccoa.github.io/trabajo_practico_integrador_grupo1/Trabajo%20Practico%20Integrador/menu.html/index.html
 
 # Tecnología Utilizada
 <ul>
