@@ -43,7 +43,7 @@ primera experiencia en programación.</p>
 
 \## 🛠️ Abre y ejecuta el proyecto
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+https://baudraccoa.github.io/trabajo_practico_integrador_grupo1/
 
 # Tecnología Utilizada
 <ul>
