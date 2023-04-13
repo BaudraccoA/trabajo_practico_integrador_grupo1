@@ -8,6 +8,13 @@ body {
 	width: 100%;
 }
 
+#fecha-hora{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #d9ebf0;
+}
+
 .container {
 	width: 94%;
 	margin: 0 auto;

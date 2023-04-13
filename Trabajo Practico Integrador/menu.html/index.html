@@ -10,29 +10,34 @@
 	<link rel="stylesheet" href="../menu.css/form.css">
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../imagenes/favicon-32x32.png">
+	<script src="https://api.openweathermap.org/data/2.5/weather?q=London&appid={14e078517d799980eea13a8d7021b165}" defer></script>
+
 </head>
 <body>
 	<header class="headerPrincipal">
 		<div class="container">        
-			<h1 class="headerPrincipal-titulo">
-				<img src="../imagenes/favicon-32x32.png" alt="logo de ProAr">
-				<a href="#">ProAr</a>	
-			</h1>
-			<!--Imagen extraida de pakapaka, si quieren modificarla a su gusto-->
-			<figure>
-                <img src="../imagenes/679648ce17eb66f45a5b9655e7f74ee2.jpg" width="100" alt="imagen de zamba pakapaka">
-			</figure>
+		  <h1 class="headerPrincipal-titulo">
+			<img src="../imagenes/favicon-32x32.png" alt="logo de ProAr">
+			<a href="#">ProAr</a> 
+		  </h1>
+		  <!-- Agregar un elemento para mostrar la fecha y hora actual -->
+			<span id="fecha-hora"></span>
+		  <figure>
+			<img src="../imagenes/679648ce17eb66f45a5b9655e7f74ee2.jpg" width="100" alt="imagen de zamba pakapaka">
+		  </figure>
+		  <nav class="headerPrincipal-nav">
+			<a class="headerPrincipal-nav-link" href="index.html">Home</a>
+			<a class="headerPrincipal-nav-link" href="Cursos.html" target="_blank">Cursos</a>
+			<a class="headerPrincipal-nav-link" href="#nosotros">Que es ProAr</a>
+			<a class="headerPrincipal-nav-link" href="#container-herramientas">Herramientas</a>
+			<a class="headerPrincipal-nav-link" href="Contacto.html" target="_blank">Contacto</a>
 			
-			<nav class="headerPrincipal-nav">
-				<a class="headerPrincipal-nav-link" href="index.html">Home</a>
-				<a class="headerPrincipal-nav-link" href="Cursos.html">Cursos</a>
-				<a class="headerPrincipal-nav-link" href="#nosotros">Que es ProAr</a>
-				<a class="headerPrincipal-nav-link" href="#container-herramientas">Herramientas</a>
-				<a class="headerPrincipal-nav-link" href="Contacto.html">Contacto</a>
-			</nav>
-		</div>
+		  </nav>
+		  <span class="weather"></span>
 
+		</div>
 	</header>
+	  
 	<img class="banner" src="../imagenes/vospitanie-detej-narusheniem-rechi-2.jpg">
 <!-- Dalila te animas a darle diseño a estos textos, agregando clases o -->
 <!--colocando en negrita por ejemplo cada vez que se repite la palabra de la pagina a su gusto-->
@@ -49,16 +54,16 @@
 				Es asi como marcamos la diferencia en el sector del desarrollo de competencias digitales online.</p>
 		 </article>
 		 <article class="contenido-articulo">
-            ProAr busca desarrollar tres atributos claves en sus estudiantes:</p>
+           <p> ProAr busca desarrollar tres atributos claves en sus estudiantes:
             <p class="objetivo">Creadores computacionales:</p>
-				<p>No basta con aprender a programar, hay que crear los hábitos que permitan ser creadores. En ProAr fomentamos el pensamiento computacional.</p>
+			    <p>No basta con aprender a programar, hay que crear los hábitos que permitan ser creadores. En ProAr fomentamos el pensamiento computacional.</p>
 				
 			<p class="objetivo">Líderes colaborativos:</p>
 				<p>El éxito en el Siglo XXI esta cada vez mas basado en desarrollar la capacidad de colaborar a la vez de líderar. Por ello ProAr trabaja actívamente en desarrollar los hábitos de resolución colaborativa de problemas y agencia de cambio.</p>
 				
 			<p class="objetivo">Aprendices permanentes:</p>
 				<p>Este es el atributo mas asociado a la genialidad y un atributo fundamental para progresar en el cambiante Siglo XXI.ProAr desarrolla los hábitos de la práctica deliberada y la mentalidad de crecimiento.</p>
-		 </article>
+			</article>
 		</div>
 		
 		<section id="container_cars" class="container_cars">
@@ -232,6 +237,5 @@
 	</footer>
 <script src="../js/index.js"></script>
 <script src="../js/contacto.js"></script>
-<script src="../js/reemplazar.js"></script>
 </body>
 </html>
