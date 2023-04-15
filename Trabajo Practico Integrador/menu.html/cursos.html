@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="../menu.css/form.css">
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../imagenes/favicon-32x32.png">
+    
 </head>
 <body>
 <header class="headerPrincipal">
@@ -18,21 +19,23 @@
             <img src="../imagenes/favicon-32x32.png" alt="logo de ProAr">
             <a href="#">ProAr</a>	
         </h1>
-    
+        <!-- Agregar un elemento para mostrar la fecha y hora actual -->
+        <span id="fecha-hora"></span>
         <figure>
-            <img src="../imagenes/679648ce17eb66f45a5b9655e7f74ee2.jpg" width="100" alt="imagen de zamba pakapaka">
+            <img src="../imagenes/679648ce17eb66f45a5b9655e7f74ee2.jpg" width="100" alt="imagen-de-zamba-pakapaka">
         </figure>
         <nav class="headerPrincipal-nav">
             <a class="headerPrincipal-nav-link" href="index.html">Home</a>
-            <a class="headerPrincipal-nav-link" href="index.html">Que es ProAr</a>
-            <a class="headerPrincipal-nav-link" href="index.html">Herramientas</a>
-            <a class="headerPrincipal-nav-link" href="Contacto.html">Contacto</a>
+            <a class="headerPrincipal-nav-link" href = 'cursos.html#nuestros-cursos'>Cursos</a>
+            <a class="headerPrincipal-nav-link" href = 'index.html#nosotros'>Que es ProAr</a>
+            <a class="headerPrincipal-nav-link" href = 'index.html#container-herramientas'>Herramientas</a>
+            <a class="headerPrincipal-nav-link" href="contacto.html">Contacto</a>
         </nav>
     </div>
 </header>
 <img class="banner" src="../imagenes/03092020024131.jpg" alt="imagenes de niños en clase de programacion">
         <main class="contenidoPrincipal">
-            <div class="container">
+            <div id="nuestros-cursos" class="container">
                 <h2 class="subtitulo">Nuestros cursos</h2>
             </div>
             <!--hay que agregar las imagenes de los archivos a cada curso-->
@@ -139,5 +142,6 @@
         </footer>
     <script src="../js/index.js"></script>
     <script src="../js/contacto.js"></script>
+    <script src="../js/fecha-hora.js"></script>
     </body>
     </html>
